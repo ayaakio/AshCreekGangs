@@ -1,1 +1,27 @@
+/* ------------------------------
+   Underworld Records
+------------------------------ */
 
+.hero-eyebrow,
+.notice-eyebrow {
+    margin-bottom: 10px;
+
+    font-family: "Cinzel", Georgia, serif;
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+}
+
+.hero-eyebrow {
+    color: var(--muted-cream);
+}
+
+.notice-eyebrow {
+    color: #c99b6b;
+    text-align: center;
+}
+
+.notice .buttons {
+    margin-top: 32px;
+}
